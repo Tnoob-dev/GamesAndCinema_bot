@@ -1,0 +1,13 @@
+annotated-types==0.7.0
+dotenv==0.9.9
+greenlet==3.2.0
+pyaes==1.6.1
+pydantic==2.11.3
+pydantic_core==2.33.1
+Pyrogram @ git+https://github.com/KurimuzonAkuma/pyrogram@df881ee8cf2fc794f5907bd6a5dbb929f71de594
+PySocks==1.7.1
+python-dotenv==1.1.0
+SQLAlchemy==2.0.40
+sqlmodel==0.0.24
+typing-inspection==0.4.0
+typing_extensions==4.13.2
